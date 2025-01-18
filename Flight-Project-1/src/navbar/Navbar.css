@@ -1,0 +1,28 @@
+/* .navbar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  padding: 15px;
+  transition: 0.5s;
+}
+.search-box{
+  display: flex;
+  align-items: center;
+  background: #2c2b2b;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+.search-box input{
+  padding: 6px;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color: #2c2b2b;
+  font-size: 18px;
+  max-width: 200px;
+}
+.search-box input::placeholder{
+  color: #fff;
+} */
